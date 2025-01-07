@@ -14,8 +14,8 @@
 
 ## Connect with me:
 <p align="left">
-<a href="[Rachit](https://twitter.com/RachitChahar7)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/900px-X_icon_2.svg.png?20231002152819" alt="rachitchahar7" width="40" /></a>&nbsp;&nbsp;
-<a href="[Rachit](https://in.linkedin.com/in/rachit-s-197177230)" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg" alt="rachitchahar7" width="40" /></a>
+<a href="https://twitter.com/RachitChahar7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/900px-X_icon_2.svg.png?20231002152819" alt="rachitchahar7" width="40" /></a>&nbsp;&nbsp;
+<a href="https://in.linkedin.com/in/rachit-s-197177230" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg" alt="rachitchahar7" width="40" /></a>
 </p>
 
 <br />
