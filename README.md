@@ -3,10 +3,10 @@
 <img src="https://gifdb.com/images/high/black-clover-yami-sukehiro-talking-33bp3kyhx11mspum.gif" width="300" align='right'>
 <br/>
 
-- 🎓 I’m an undergraduate from IIIT Vadodara.
+- 🎓 I’m an undergraduate from IIIT.
 - 💪 I am proficient in working with Rust, Solidity, Typescript.  
-- 🏙️ Currently, I'm exploring privacy enhancing technologies (ZK, FHE).
-- ⚒️ Working as Software Engineer at Rize Labs. Previously worked as SDE intern at Avex Defy (Aptos ecosystem).
+- 🏙️ Currently, I'm working on privacy enhancing technologies (ZK, FHE).
+- ⚒️ Working as Software Engineer at [Rize Labs](https://github.com/RizeLabs/). Previously worked as SDE intern at Avex Defy (Aptos ecosystem).
 
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Created-for-a-purpose.Created-for-a-purpose)
 
@@ -32,4 +32,4 @@
 <br/>
 <br/>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Created-for-a-purpose&show_icons=true&theme=synthwave)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Created-for-a-purpose&show_icons=true&theme=synthwave&hide_rank=true)
